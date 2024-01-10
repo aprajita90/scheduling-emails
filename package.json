@@ -1,0 +1,20 @@
+{
+  "name": "scheduling-emails",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.0",
+    "axios": "^1.6.5",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.4",
+    "node-cron": "^3.0.3",
+    "sendgrid": "^5.2.3"
+  }
+}
